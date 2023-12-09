@@ -1,12 +1,1 @@
-este texto ha sido modificado extra hola
-
-#esto es un texto extra
-#
-#
-#khe 1 2 3 cinco
-porque 
-esta 
-linea 
-de codigo 
-no es 
-leida
+archivo modificado totalmente
